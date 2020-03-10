@@ -1,0 +1,4 @@
+Diagramme sequence : 
+	- Sequence ajout produit
+	- Sequence paiement
+	
